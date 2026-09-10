@@ -26,4 +26,6 @@ barrier
 *.dSYM
 *.pcap
 TAGS
+.vsocde
+.cache
 
